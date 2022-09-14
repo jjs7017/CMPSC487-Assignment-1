@@ -3,8 +3,7 @@
 When opening the file in the command line you will be prompted to enter an ID number:
 ![alt text](https://github.com/jjs7017/CMPSC487-Assignment-1/blob/main/src/pictures/Picture7.png?raw=true)
 
-When a nine digit ID number is enetered it will be sent to the database with the default role of student and 
-current time as the start date with a default 1 hour end date.
+When a nine digit ID number is enetered it will be sent to the database with the default role of student and current time as the start date with a default 1 hour end date.
 ![alt text](https://github.com/jjs7017/CMPSC487-Assignment-1/blob/main/src/pictures/Picture8.png?raw=true)
 
 ### Admin Tools GUI
